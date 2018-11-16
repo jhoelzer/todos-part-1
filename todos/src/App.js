@@ -18,8 +18,8 @@ class TodoItem extends Component {
         </div>
       </li>
     );
-  }
-}
+  };
+};
 
 class TodoList extends Component {
   state = {
